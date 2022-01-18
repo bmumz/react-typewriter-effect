@@ -1,1 +1,2 @@
-export { HelloWorld } from "./components";
+export {HelloWorld} from './components';
+export {TypewriterEffect} from './components';
